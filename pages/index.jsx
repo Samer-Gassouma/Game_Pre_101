@@ -17,7 +17,6 @@ export default function Home() {
       <main className="font-IBM-Plex">
         <AboutGame />
         <GameCharacters />
-        <Characters />
         <OurTeam/>
         
       </main>
