@@ -1,12 +1,8 @@
 const Button = ({ title,h }) => {
   return (
     <button
-      onClick={
-        () => {
-          window.open(h, "_blank");
-        }
-      }
-      className="z-2"
+      disabled={true}
+      className="z-2 non-course-allowed"
     >
       <div className="bg-[url('/hero/purpule_button.svg')] bg-no-repeat bg-center bg-contain z-10">
         <div className=" place-content-center flex justify-center">
