@@ -12,9 +12,9 @@ const AboutEvent = () => {
           <div>
             <Image src={screenshot} alt="" />
           </div>
-          <div className="gap-8 rows-2 p-4 sm:p-10">
+          <div className=" p-4 sm:p-10">
             <p className="text-xl 2xl:text-3xl lg:text-2xl">
-              <b>Mad Guy</b> el Game Description Here{" "}
+              <b>Mad Guy</b><br/> Games transport players into thrilling adventures,where they can test their skills, solve puzzles, and compete against others.<br/> With stunning graphics and immersive worlds, players are captivated by the virtual experiences they offer.<br/> Whether it's shaping the story, mastering levels, or unleashing creativity, games provide a diverse range of challenges and opportunities for personal growth. <br/>Whether played alone or with friends, games offer a unique and engaging form of entertainment that brings joy and excitement to players of all ages.{" "}
             </p>
           </div>
         </div>

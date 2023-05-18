@@ -1,8 +1,12 @@
-const Button = ({ title }) => {
+const Button = ({ title,h }) => {
   return (
     <button
-      disabled={true}
-      className="z-2 cursor-not-allowed"
+      onClick={
+        () => {
+          window.open(h, "_blank");
+        }
+      }
+      className="z-2"
     >
       <div className="bg-[url('/hero/purpule_button.svg')] bg-no-repeat bg-center bg-contain z-10">
         <div className=" place-content-center flex justify-center">
