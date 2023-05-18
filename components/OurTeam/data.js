@@ -23,7 +23,7 @@ export const Team = [
   },
   {
     image: img4,
-    name: "Farah Hammam",
+    name: "Farah Hammami",
     role: "Game Developer",
   },
   {
@@ -53,7 +53,7 @@ export const Team = [
   },
   {
     image: img4,
-    name: "Farah Hammam",
+    name: "Farah Hammami",
     role: "Game Developer",
   },
   {
