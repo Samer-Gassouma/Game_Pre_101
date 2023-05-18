@@ -32,7 +32,7 @@ const Hero = () => {
                 />
               </h1>
               <p className="font-medium text-center lg:text-left leading-[2rem] lg:text-2xl 2xl:text-4xl 2xl:leading-[2.875rem]">
-              The story begins when Edward's father is a gambler with a huge unpaid debt, and his mother is overworked and struggling to make ends meet. Edward's family is in a state of financial distress, and their situation deteriorates as the story progresses.
+              The story begins when Edward s father is a gambler with a huge unpaid debt, and his mother is overworked and struggling to make ends meet. Edward s family is in a state of financial distress, and their situation deteriorates as the story progresses.
               </p>
               <div className="flex items-end">
                 <div className="relative h-[67px] bounce w-[67px] 2xl:w-[101px] 2xl:h-[114px]">
