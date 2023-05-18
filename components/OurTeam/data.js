@@ -6,15 +6,16 @@ import img5 from "../../images/Team/5.jpeg";
 import img6 from "../../images/Team/6.jpeg";
 export const Team = [
   {
-    image: img5,
-    name: "Mokdad Mohamed",
-    role: " team leader",
-  },
-  {
     image: img2,
     name: "yassine chagouan",
     role: "CEO",
   },
+  {
+    image: img5,
+    name: "Mokdad Mohamed",
+    role: " team leader",
+  },
+  
   {
     image: img6,
     name: "Farah Barka",
